@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-standart-typescript",
-  "version": "2.1.1-beta.0",
+  "name": "eslint-config-standart-typescript-partyk",
+  "version": "2.1.1-beta.1",
   "description": "Default configure ESLint for projects with support typescript",
   "main": "index.js",
   "scripts": {
