@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/.gitignore
+/.idea/eslint-config-standart-typescript.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
