@@ -1,17 +1,10 @@
 module.exports = {
   'extends': ['standard-with-typescript'],
-  'env': {
-    'browser': true,
-    'es6': true
-  },
-  'parserOptions': {
-    'ecmaVersion': 9,
-    'sourceType': 'module',
-    'allowImportExportEverywhere': true,
-    'ecmaFeatures': {
-      'spread': true
-    }
-  },
+    'files': ["*.ts", "*.tsx"],
+  'parser': '@typescript-eslint/parser',
+    'plugins': [
+        '@typescript-eslint'
+    ],
   'rules': {
       'comma-dangle': [
           1,
